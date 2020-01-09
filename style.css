@@ -1,0 +1,76 @@
+h2 {
+  font-family: 'Acme', sans-serif;
+  font-size:30px;
+  margin-top:0;
+}
+li {
+  font-family: 'Sniglet', cursive;
+  font-size:20px;
+}
+.types {
+  font-size:30px;
+  font-family: 'Acme', sans-serif;
+  margin-bottom:1%;
+}
+table td {
+  font-family: 'Sniglet', cursive;
+  font-size:20px;
+  
+}
+table th {
+  font-family: 'Sniglet', cursive;
+  font-size:25px;
+  
+}
+table, th, td {
+  border:2px solid black;
+  border-collapse:collapse;
+}
+table {
+  margin-right:10%;
+  float:right;
+}
+.list {
+  float:left;
+  text-align:left;
+  margin-left:10%;
+}
+header {
+  text-align:center;
+}
+body {
+  background-image:url("https://storage.pixteller.com/designs/designs-images/2019-03-27/05/simple-background-backgrounds-passion-simple-1-5c9b95d2d9f93.png");
+  background-size:100% 100vh;
+  background-attachment: fixed;
+}
+.title {
+  font-size:80px;
+  font-family: 'Luckiest Guy', cursive;
+  
+}
+.subheading {
+  font-size:25px;
+  font-family: 'Sniglet', cursive;
+}
+.linkone {
+  margin-right:5%;
+}
+ a {
+  font-size:20px;
+  font-family: 'Sniglet', cursive;
+}
+.dogpicone {
+  width:20%;
+  margin-top:5%;
+}
+.dogpictwo,.dogpicthree, .dogpicfour {
+  width:20%;
+  margin-top:5%;
+  margin-left:2%;
+}
+main {
+  text-align:center;
+}
+.dogtable {
+ margin-top:2%;
+}
